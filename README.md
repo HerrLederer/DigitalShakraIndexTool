@@ -29,7 +29,7 @@ This Index should be the lowest that you might accept for your binary. It will s
 
 ### Index: 8
 
-8 While not being perfect yet, your piece of software is already in a good shape. No CPU wear to be expected and crashes are unlikely, but might still happen every now and then.
+While not being perfect yet, your piece of software is already in a good shape. No CPU wear to be expected and crashes are unlikely, but might still happen every now and then.
 
 ### Index: 10
 
