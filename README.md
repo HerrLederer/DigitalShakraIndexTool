@@ -34,3 +34,9 @@ This Index should be the lowest that you might accept for your binary. It will s
 ### Index: 10
 
 Congratulations, this binary is in perfect shape without any bad spirits.
+
+## Why are there no sources?
+
+We spent months and years on the engineering to figure out the effects of compiler, assembler and linker versions and their parametrization.
+Just compiling it on your own will have a severe impact on the Shakra Index of the tool, so we specially optimized it for you to ensure you get the correct values, provided by a binary that is free of bad spirits.
+
