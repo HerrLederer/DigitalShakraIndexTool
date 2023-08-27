@@ -12,7 +12,7 @@ Make it reject any commit that causes the binaries being unbalanced and having a
 
 ## Usage
 
-> DigitalShakraIndexTool.exe <filename>
+> DigitalShakraIndexTool.exe <<filename>>
 
 ## Results
 Digital Shakra Index may Range from 0 to 10. 
